@@ -76,7 +76,7 @@ cantidad de números negativos, positivos y la cantidad de ceros recibidos.
 Escriba una aplicación que lea dos números enteros y determine si el primero es
 múltiplo del segundo y que imprima el resultado.
 
-### Ejercicios clases
+## Ejercicios clases
 
 ## Ejercicio 1
 Cree una clase llamada Empleado, que incluya 
