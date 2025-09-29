@@ -49,10 +49,15 @@ Escriba una aplicación que calcule los cuadrados y cubos de los números del 0 
 a continuación.
 
 número			cuadrado			cubo
+
 0			0				0
+
 1			1				1
+
 2			4				8
+
 .			.				.
+
 .			.				.
 
 ## EJERCICIO 8
