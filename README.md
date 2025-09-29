@@ -100,3 +100,86 @@ y debe asumir que los valores que se proporcionan son correctos.
 Proporcione un método establecer y un método obtener para cada variable de instancia. 
 Proporcione un método mostrarFecha, que muestre el mes, día y año, separados por barras diagonales (/). 
 Escriba sentencias que demuestren las capacidades de la clase Fecha.
+
+# EJERCICIOS - ESTRUCTURAS DE CONTROL
+
+## Ejercicio 1
+
+Realizar un programa que muestre 100 veces tú nombre por pantalla.
+
+## Ejercicio 2
+
+Utilizando bucles mostrar la tabla de multiplicar del número que se le solicite.
+
+## Ejercicio 3
+
+Mostrar toda la tabla de multiplicar (del 1 al 10).
+
+## Ejercicio 4
+
+Escribir un programa que reciba como entrada una
+serie de 10 números y que determine e imprima el mayor de los números.
+
+## Ejercicio 5
+
+Escribir una aplicación que imprima la siguiente tabla de valores:
+
+N		10*N		100*N		1000*N
+
+1		10			100		1000
+2		20			200		2000
+3		30			300		3000
+.		.			.			.
+.		.			.			.
+10      	100         		1000    	10000
+
+
+## Ejercicio 6
+
+Un palíndromo es una secuencia de caracteres que se lee igual al derecho y al revés. Por ejemplo: 12321,55555, 45554 y 11611. 
+Escriba una aplicación que lea un entero de cinco dígitos y determine si es un palíndromo. 
+Si el número no es de cinco dígitos que muestre un mensaje de error y que vuelva a pedir otro número.
+
+## Ejercicio 7
+
+Escriba una aplicación que utilice sólo las instrucciones de salida
+
+Console.Write ("* ");
+Console.WriteLine();
+
+para mostrar el patrón de tablero de damas que se muestra a continuación.
+
+* * * * * * * *
+* * * * * * * *
+* * * * * * * *
+* * * * * * * *
+* * * * * * * *
+* * * * * * * *
+* * * * * * * *
+* * * * * * * *
+  
+
+## Ejercicio 8
+
+Escriba una aplicación que muestre los múltiplos del entero 2 entre dos números recogidos por consola.
+
+## Ejercicio 9
+
+Desarrolle una aplicación que determine el sueldo para cada empleado.
+La empresa paga la hora normal en las primeras 40 horas de trabajo y paga hora y media para el resto de horas. 
+El programa pedirá el número de trabajadores y, para cada trabajador, el número de horas trabajadas y la tarifa para cada hora. 
+Deberá de mostrar el sueldo para cada trabajador.
+
+## Ejercicio 10
+
+El factorial de un entero n no negativo se escribe como n! y se define de la
+siguiente manera:
+
+n!= n (n-1) (n-2) ... 1
+
+y
+
+n! = 1 (para n = 0)
+
+Escribe un programa que pida un número entero y calcule su factorial.
+Si el número es negativo, debe mostrar un mensaje de error.
