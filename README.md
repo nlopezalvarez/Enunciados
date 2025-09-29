@@ -26,7 +26,9 @@ el valor 3.14159 para el número pi.
 Las formulas:
 
 diámetro = 2 * r
+
 circunferencia = 2 * pi * r
+
 área = pi * r²
 
 ## EJERCICIO 5
