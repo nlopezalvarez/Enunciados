@@ -75,3 +75,28 @@ cantidad de números negativos, positivos y la cantidad de ceros recibidos.
 
 Escriba una aplicación que lea dos números enteros y determine si el primero es
 múltiplo del segundo y que imprima el resultado.
+
+### Ejercicios clases
+
+## Ejercicio 1
+Cree una clase llamada Empleado, que incluya 
+nombre (tipo String)
+apellido (tipo String)
+salario mensual (double). 
+Debe tener un constructor que inicialice las tres variables. 
+Proporcione un método establecer y un método obtener para cada variable. 
+Si el salario mensual no es positivo, establézcalo a 0. 
+En el Main demuesta las capacidades de cada Empleado: 
+Crea dos objetos Empleado y muestra el salario anual de cada objeto. 
+Después, proporciona a cada Empleado un aumento del 10% y muestra el salario anual de cada Empleado otra vez.
+
+## Ejercicio 2
+Cree una clase llamada Fecha, que incluya tres piezas de información como variables:
+mes (tipo int)
+día (tipo int)
+año (tipo int). 
+La clase debe tener un constructor que inicialice las tres variables
+y debe asumir que los valores que se proporcionan son correctos. 
+Proporcione un método establecer y un método obtener para cada variable de instancia. 
+Proporcione un método mostrarFecha, que muestre el mes, día y año, separados por barras diagonales (/). 
+Escriba sentencias que demuestren las capacidades de la clase Fecha.
