@@ -1,0 +1,70 @@
+# EJERCICIOS - INTRODUCCIÓN
+
+## EJERCICIO 1
+
+Escriba una aplicación que pida al usuario que escriba dos números, que obtenga
+los números del usuario e imprima la suma, producto, diferencia y cociente
+(división) de los números.
+
+## EJERCICIO 2
+
+Escriba una aplicación que pida al usuario que escriba dos números enteros, que
+obtenga los números del usuario y muestre el número más grande, seguido de las
+palabras "es más grande". Si los números son iguales, que imprima el mensaje "Éstos números son iguales."
+
+## EJERCICIO 3
+
+Escriba una aplicación que reciba tres enteros del usuario y muestre la suma,
+promedio, producto, menor y mayor de los números.
+
+## EJERCICIO 4
+
+Escriba una aplicación que reciba del usuario el radio de un círculo como un
+entero, y que imprima el diámetro, circunferencia y área de ese círculo. Utilice
+el valor 3.14159 para el número pi.
+
+Las formulas:
+
+diámetro = 2 * r
+circunferencia = 2 * pi * r
+área = pi * r²
+
+## EJERCICIO 5
+
+Escriba una aplicación que lea un entero, y que determine e imprima si es par o
+impar. NOTA: El modulo de 2.
+
+## EJERCICIO 6
+
+Escriba una aplicación que reciba del usuario un número compuesto por cinco
+dígitos, que separe ese número en sus dígitos individuales y los imprima cada
+uno separado por 3 espacios en blanco.
+
+## EJERCICIO 7
+
+Escriba una aplicación que calcule los cuadrados y cubos de los números del 0 al
+10, y que imprima los valores resultantes en formato de tabla, como se muestra
+a continuación.
+
+número			cuadrado			cubo
+0			0				0
+1			1				1
+2			4				8
+.			.				.
+.			.				.
+
+## EJERCICIO 8
+
+Escriba un programa que lea el nombre y el apellido del usuario, como
+dos entradas separadas, y que concatene el primer nombre y el apellido,
+separándolos por un espacio. Mostrar el nombre concatenado .
+
+## EJERCICIO 9
+
+Escriba un programa que reciba cinco números enteros y que determine e imprima la
+cantidad de números negativos, positivos y la cantidad de ceros recibidos.
+
+## EJERCICIO 10
+
+Escriba una aplicación que lea dos números enteros y determine si el primero es
+múltiplo del segundo y que imprima el resultado.
